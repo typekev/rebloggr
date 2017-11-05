@@ -1,0 +1,23 @@
+{
+  "name": "reblog",
+  "version": "0.0.1",
+  "description": "A blogging tool built with React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typekev/reblog.git"
+  },
+  "keywords": [
+    "blog",
+    "react"
+  ],
+  "author": "typekev <kev@typekev.com> (http://typekev.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typekev/reblog/issues"
+  },
+  "homepage": "https://github.com/typekev/reblog#readme"
+}
