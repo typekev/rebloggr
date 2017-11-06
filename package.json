@@ -1,5 +1,5 @@
 {
-  "name": "reblog",
+  "name": "rebloggr",
   "version": "0.0.1",
   "description": "A blogging tool built with React.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/typekev/reblog.git"
+    "url": "git+https://github.com/typekev/rebloggr.git"
   },
   "keywords": [
     "blog",
@@ -17,7 +17,7 @@
   "author": "typekev <kev@typekev.com> (http://typekev.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/typekev/reblog/issues"
+    "url": "https://github.com/typekev/rebloggr/issues"
   },
-  "homepage": "https://github.com/typekev/reblog#readme"
+  "homepage": "https://github.com/typekev/rebloggr#readme"
 }
