@@ -7,7 +7,7 @@ npm: `npm install rebloggr`
 yarn: `yarn add rebloggr`
 
 # Instructions
-Rebloggr accepts 3 props, a blog(blog), a call to action(cta), and a title icon(titleIcon).
+Rebloggr accepts 4 props, a blog(blog), a call to action(cta), a title icon(titleIcon), and a href(link).
 Your blog will be a JSON, and should look like this:
 ```
 const blog = {
@@ -40,7 +40,7 @@ import TitleIcon from 'icons/TitleIcon';
 
 class AwesomeBlog extends React.Component {
   render() {
-    return <Rebloggr blog={blog} cta={CTA} titleIcon={TitleIcon} />;
+    return <Rebloggr blog={blog} cta={CTA} titleIcon={TitleIcon} link="http://example.com"/>;
   }
 }
 
